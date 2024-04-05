@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.guhao.royal_guard.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "royal_guard.refmap.json",
+  "mixins": [
+    "GuardMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
